@@ -22,7 +22,7 @@ header {
     background-color: #4EA0FF;
 }
     
-.logo{
+.logos{
     width: 10%;
     margin-top: 2%;
 }
@@ -72,8 +72,8 @@ table {
       border-spacing: 0;
 } 
 
-.img{
+.resize{
     width: 18%;
     height: auto;
-    re
+    
 }
