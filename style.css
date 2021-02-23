@@ -1,6 +1,6 @@
- /* *{
+  *{
     margin: 0;
-}  */
+}  
 .content{
     margin: auto;
     width: 55%;
@@ -28,7 +28,7 @@ header {
 }
 
 .article{
-    margin-top: 20px;
+   
     margin-bottom: 20px;
     color: #969696;
 }
@@ -37,8 +37,8 @@ header {
 }
 
 .list{
-    margin-top: 28px;
-    margin-bottom: 28px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     font-size: 15px;    
 }
 
@@ -54,7 +54,7 @@ header {
 thead {
       background-color: #20A9E5;
       color: white;
-      font-size: 20px;
+      font-size: 15px;
       text-align: left;
 }
     
@@ -62,7 +62,7 @@ tbody {
       background-color: lightblue;
 }
 .text {
-     width: 700px;
+     width: 800px;
 }
 .white {
       background-color: white;
@@ -71,3 +71,9 @@ tbody {
 table {
       border-spacing: 0;
 } 
+
+.img{
+    width: 18%;
+    height: auto;
+    re
+}
